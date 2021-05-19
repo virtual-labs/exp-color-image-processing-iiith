@@ -1,18 +1,47 @@
 [
-{"question":"This is a Sample Question 1?",
+{"question":"1. What is the amount of memory used for storing, 256X256 colored image with pixel depth of 8 bits?",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"192 KB",
+            "b":"64 KB",
+            "c":"65536 B",
+            "d":"96 KB"
           },
 "correctAnswer":"a"},
-{"question":"This is a Sample Question 2?",
+
+{"question":"2. Which of the following relation is correct?",
 "answers":{
-            "a":"answer1",
-            "b":"answer2",
-            "c":"answer3",
-            "d":"answer4"
+            "a":"[R, G, B] = [1,1,1] � [C, M, Y]",
+            "b":"[R, G, B] = [1,1,1] � [H, S, V]",
+            "c":"[R, G, B] = [1,1,1] � [Y, Cb, Cr]",
+            "d":"[R, G, B] = [1,1,1] � [M+Y, C+Y, C+M]"
           },
-"correctAnswer":"c"} 
+"correctAnswer":"c"}, 
+
+{"question":"3. Which of the following colour plane is used to change the any specific colour is HSI colour model",
+"answers":{
+            "a":"Hue",
+            "b":"Saturation",
+            "c":"Intensity",
+            "d":"None of the Above"
+          },
+"correctAnswer":"a"},
+
+{"question":"4. Given a colour image with a dark appearance, which color model should you use so that the processing preserves the colour but brightens the image?",
+"answers":{
+            "a":"RGB",
+            "b":"HSI",
+            "c":"CMY",
+            "d":"None of the above"
+          },
+"correctAnswer":"c"},
+
+{"question":"5. A surface coated with cyan pigment is illuminated with white light. Choose the correct option.",
+"answers":{
+            "a":"No red light is reflected from the surface.",
+            "b":"Only red light is reflected from the surface.",
+            "c":"All red and blue lights are reflected from the surface.",
+            "d":"All red and blue lights are reflected from the surface."
+          },
+"correctAnswer":"a"}
+
 ]
