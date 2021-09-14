@@ -24,24 +24,6 @@
             "c":"Intensity",
             "d":"None of the Above"
           },
-"correctAnswer":"a"},
-
-{"question":"4. Given a colour image with a dark appearance, which color model should you use so that the processing preserves the colour but brightens the image?",
-"answers":{
-            "a":"RGB",
-            "b":"HSI",
-            "c":"CMY",
-            "d":"None of the above"
-          },
-"correctAnswer":"c"},
-
-{"question":"5. A surface coated with cyan pigment is illuminated with white light. Choose the correct option.",
-"answers":{
-            "a":"No red light is reflected from the surface.",
-            "b":"Only red light is reflected from the surface.",
-            "c":"All red and blue lights are reflected from the surface.",
-            "d":"All red and blue lights are reflected from the surface."
-          },
 "correctAnswer":"a"}
 
 ]
