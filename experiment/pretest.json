@@ -10,10 +10,10 @@
 
 {"question":"2. Which of the following relation is correct?",
 "answers":{
-            "a":"[R, G, B] = [1,1,1] � [C, M, Y]",
-            "b":"[R, G, B] = [1,1,1] � [H, S, V]",
-            "c":"[R, G, B] = [1,1,1] � [Y, Cb, Cr]",
-            "d":"[R, G, B] = [1,1,1] � [M+Y, C+Y, C+M]"
+            "a":"[R, G, B] = [1,1,1] - [C, M, Y]",
+            "b":"[R, G, B] = [1,1,1] - [H, S, V]",
+            "c":"[R, G, B] = [1,1,1] - [Y, Cb, Cr]",
+            "d":"[R, G, B] = [1,1,1] - [M+Y, C+Y, C+M]"
           },
 "correctAnswer":"c"}, 
 
